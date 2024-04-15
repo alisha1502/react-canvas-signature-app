@@ -1,0 +1,13 @@
+/* .container {
+    padding: 10px;
+  } */
+  
+  @media (max-width: 802px) {
+    .flex-col {
+      flex-direction: column;
+    }
+    .w-full {
+      width: 100%; /* Adjust width for smaller screens */
+    }
+  }
+  
